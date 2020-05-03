@@ -1,6 +1,6 @@
 {
   "name": "Renaming xls to xlsx",
-  "description": "Blank Process",
+  "description": "Renaming XLS to XLSX",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.3-beta.867639]",
